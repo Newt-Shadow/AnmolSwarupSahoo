@@ -29,6 +29,8 @@
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## Frontend & Backend Development
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,nodejs,firebase](https://skillicons.dev)
