@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Newt-Shadow](https://github.com/Newt-Shadow)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U_DGzhBm6DAVOyhY-yXZglFn-5Mf6fPW/view?usp=drive_link](https://drive.google.com/file/d/1U_DGzhBm6DAVOyhY-yXZglFn-5Mf6fPW/view?usp=drive_link)
-
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **anmol.s.sahoo@gmail.com**
