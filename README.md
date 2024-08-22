@@ -10,13 +10,12 @@
 
 - 🤝 I’m looking for help with **Data Handling and Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Newt-Shadow](https://github.com/Newt-Shadow)
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **anmol.s.sahoo@gmail.com**
 
-- ⚡ Fun fact [Genshin Player](Genshin Player)
+- ⚡ Fun fact **Genshin Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
