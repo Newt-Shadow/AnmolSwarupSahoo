@@ -27,31 +27,20 @@
 
 # 💻 Tech Stacks
 ## Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js](https://skillicons.dev)
+
 
 ## Frontend & Backend Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,cc,nodejs,firebase" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,nodejs,firebase](https://skillicons.dev)
+
 
 ## Database
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres](https://skillicons.dev)
+
 
 ## Dev Tools & Software 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode](https://skillicons.dev)
+
   
 [![](https://visitcount.itsvg.in/api?id=RishavKumarSinha&icon=0&color=0)](https://visitcount.itsvg.in)
 
