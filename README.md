@@ -28,23 +28,24 @@
 # 💻 Tech Stacks
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ## Frontend & Backend Development
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,nodejs,firebase](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,nodejs,firebase)](https://skillicons.dev)
 
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 
 ## Dev Tools & Software 
-[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode)](https://skillicons.dev)
 
   
-[![](https://visitcount.itsvg.in/api?id=RishavKumarSinha&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newt-shadow&show_icons=true&locale=en&layout=compact" alt="newt-shadow" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=RishavKumarSinha&icon=0&color=0)](https://visitcount.itsvg.in)
