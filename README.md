@@ -16,15 +16,15 @@
 
 - 📫 How to reach me **anmol.s.sahoo@gmail.com**
 
-- ⚡ Fun fact **Genshin Player**
+- ⚡ Fun fact **Anime Watcher & Genshin Player**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anmol_n77/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol77/)
-</p>
+
 
 ## 👨🏻‍💻 Laptop in use
-<img src="[https://img.shields.io/badge/ASUS-Vivobook_Pro-green?style=flat-square]"/>
+<img src="https://img.shields.io/badge/ASUS-Vivobook_Pro-green?style=flat-square"/>
 
 # 💻 Tech Stacks
 ## Programming Languages
@@ -40,6 +40,9 @@
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
+## Dev Tools & Software 
+[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode)](https://skillicons.dev)
+
 ## 💳 GitHub Profile Summary Card
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Newt-Shadow&theme=vue"/>
@@ -52,8 +55,7 @@
 
 
 
-## Dev Tools & Software 
-[![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode)](https://skillicons.dev)
+
 
   
 
