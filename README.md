@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anmol Swarup Sahoo</h1>
-<h3 align="center">A Web Designer and Full-Stack developer along with being An Avid Tech Enthuse</h3>
+![MasterHead](https://i.imgur.com/ObjrQmO.jpg)   
+<h1 align="center">Ciao 👋, I'm Anmol Swarup Sahoo</h1>
+<h3 align="center">A Web Designer, Full-Stack developer And An Avid Tech Enthuse</h3>
 
 
 - 🔭 I’m currently working on **React.Js with Node.Js as Backend**
@@ -19,8 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anmol77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol77" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anmol_n77/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol77/)
 </p>
+
+## 👨🏻‍💻 Laptop in use
+<img src="[https://img.shields.io/badge/ASUS-Vivobook_Pro-green?style=flat-square]"/>
 
 # 💻 Tech Stacks
 ## Programming Languages
@@ -36,6 +40,17 @@
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
+## 💳 GitHub Profile Summary Card
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Newt-Shadow&theme=vue"/>
+</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Newt-Shadow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Newt-Shadow&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Newt-Shadow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## Dev Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=figma,postman,git,github,vscode)](https://skillicons.dev)
@@ -45,4 +60,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newt-shadow&show_icons=true&locale=en&layout=compact" alt="newt-shadow" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=RishavKumarSinha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Newt-Shadow&icon=0&color=0)](https://visitcount.itsvg.in)
