@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **anmol.s.sahoo@gmail.com** **https://shadow-profiles.vercel.app**
+- 📫 How to reach me **https://shadow-profiles.vercel.app**
 
 - ⚡ Fun fact **Anime Watcher & Genshin Player**
 
