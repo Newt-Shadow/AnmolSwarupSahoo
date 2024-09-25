@@ -51,15 +51,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Newt-Shadow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Newt-Shadow&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Newt-Shadow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-
-  
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=newt-shadow&show_icons=true&locale=en&layout=compact" alt="newt-shadow" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=Newt-Shadow&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
